@@ -12,10 +12,16 @@ Ia
 Prototipo:
 Link para o prototipo no Figma:https://www.figma.com/design/YRXtXp3XTETfxhtfqbbjDL/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=SYNCee5ee3gGCtg8-0
 
+#Captura de tela
+#Tela 1
+![Tela 1 do prototipo](captura3.png)
 
-Captura de tela 2.png
+#Tela 2
+![Tela 3 do prototipo](captura%20%282%29.png)
 
-Captura de tela 3.png
+#Tela 3
+![Tela 2 do prototipo](captura.png)
+
 
 
 
